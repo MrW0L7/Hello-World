@@ -9,6 +9,9 @@ print(message)
 message = ' I am 30 year old'
 print(message)
 
+message = 'Jag gillar kladdkaka'
+print(message)
+
 # Underscores works for variable but spaces does not
 greeting_message = 'Hello'
 print(greeting_message)
