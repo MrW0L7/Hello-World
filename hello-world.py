@@ -1,4 +1,4 @@
-print("Hello Python World! ")
+print("Hello Group2! ")
 
 message = 'Hello Python World'
 print(message)
@@ -7,6 +7,9 @@ message = 'I love Python'
 print(message)
 
 message = ' I am 30 year old'
+print(message)
+
+message = 'Jag gillar kladdkaka'
 print(message)
 
 # Underscores works for variable but spaces does not
